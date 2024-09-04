@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm deep-diving into the world of Backend + DevOps through a bootcamp.<br>👯 I’m looking for to collaborate on interesting web developer project.<br>🌱 I’m currently expanding my skillset with Java, Spring Boot, Docker, Node.js, and more."<br>
+🔭 I'm deep-diving into the world of Backend web developer in a 650-hour bootcamp focused on DevOps..<br>👯 I’m looking for to collaborate on interesting web developer project.<br>🌱 I’m currently expanding my skillset with Java, Spring Boot, Docker, Node.js, and more."<br>
 
 
 ## 🌐 Socials:
